@@ -53,11 +53,10 @@
 							},
 							{
 								"source": {
-									"name": "QtyOnHand",
-									"type": "Int32"
+									"name": "QtyOnHand"
 								},
 								"sink": {
-									"name": "Quantity"
+									"name": "QtyOnHand"
 								}
 							},
 							{
