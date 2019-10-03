@@ -35,7 +35,7 @@
 						"mappings": [
 							{
 								"source": {
-									"name": "1",
+									"name": "ProductID",
 									"type": "Int32"
 								},
 								"sink": {
@@ -44,7 +44,7 @@
 							},
 							{
 								"source": {
-									"name": "2",
+									"name": "Name",
 									"type": "String"
 								},
 								"sink": {
@@ -53,7 +53,7 @@
 							},
 							{
 								"source": {
-									"name": "3",
+									"name": "QtyOnHand",
 									"type": "Int32"
 								},
 								"sink": {
@@ -62,7 +62,7 @@
 							},
 							{
 								"source": {
-									"name": "4",
+									"name": "Price",
 									"type": "Decimal"
 								},
 								"sink": {
